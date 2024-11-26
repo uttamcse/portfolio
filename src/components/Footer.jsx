@@ -17,7 +17,8 @@ const Footer = () => {
                 <a href="https://www.linkedin.com/in/uttam-yadav/" target="_blank" rel="noopener noreferrer" className="flex items-center hover:text-yellow-400">
                     <FaLinkedin className="mr-1" /> LinkedIn
                 </a>
-            </div>
+            
+            </div>.
         </footer>
     );
 };
