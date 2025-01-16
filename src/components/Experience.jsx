@@ -8,7 +8,7 @@ const Experience = () => {
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-8 px-4">
                     <div className="bg-gradient-to-r from-blue-500 to-purple-600 p-6 rounded-lg shadow-lg transition-transform transform hover:scale-105">
                         <h4 className="text-2xl font-semibold text-white">Software Developer</h4>
-                        <p className="text-gray-200 italic">AscentHR, Bangalore — Aug 2023 - Aug 2024</p>
+                        <p className="text-gray-200 italic">AscentHR, Bangalore — Mar 2024 - Oct 2024</p>
                         <ul className="list-disc list-inside mt-4 text-gray-100">
                             <li>Developed and maintained scalable web applications using the MERN stack.</li>
                             <li>Created RESTful APIs and integrated front-end components with backend logic.</li>
