@@ -26,10 +26,23 @@ const Experience = () => {
                             <li>This internship enhanced my problem-solving skills and deepened my understanding of Python programming.</li>
                         </ul>
                     </div>
+                    {/* EkamTek Experience */}
+                    <div className="bg-gradient-to-r from-indigo-500 to-blue-700 p-6 rounded-lg shadow-lg transition-transform transform hover:scale-105 col-span-1 md:col-span-2">
+                        <h4 className="text-2xl font-semibold text-white">Backend Developer | EkamTek</h4>
+                        <p className="text-gray-200 italic">Software, Dec 2024 – Current | Noida</p>
+                        <ul className="list-disc list-inside mt-4 text-gray-100">
+                            <li>Developed a stock recommendation app enabling research analysts to share investment suggestions with investors.</li>
+                            <li>Integrated Cashfree payment gateway for secure, seamless transactions.</li>
+                            <li>Built a custom CMS using Vue.js to manage content and analyst recommendations.</li>
+                            <li>Enabled real-time communication using Socket.io between investors and analysts.</li>
+                            <li>Designed role-based access control for analysts and investors.</li>
+                            <li>Optimized backend APIs for quick data retrieval and secure access.</li>
+                            <li>Ensured responsive UI of CMS for smooth experience across desktop and mobile devices.</li>
+                        </ul>
+                    </div>
                 </div>
             </div>
         </section>
     );
 };
-
 export default Experience;
