@@ -61,7 +61,7 @@ const Projects = () => {
               </a>{" "}
               |{" "}
               <a
-                href="https://portfolio-uttam-yadavs-projects.vercel.app/"
+                href="https://portfolio-qd4v.vercel.app/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="underline text-blue-200 hover:text-blue-400"
